@@ -3,8 +3,7 @@
    Course: Computer Graphics / Peripherals & Interfacing
 
    Students:
-   1. MD. Rakibul Islam (ID: 2023-XXXXX)
-   2. Mst. Jannatul Ferdous Smrity / Mariya Aktar (Peer Partner)
+   1. MD. Rakibul Islam (ID:  41230301525 )
    ========================================================== */
 
 #include <GL/glut.h>
